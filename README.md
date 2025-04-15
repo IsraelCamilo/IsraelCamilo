@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Israel Soares
 
 💻 **Desenvolvedor de Software com +15 anos de experiência**  
-Especialista em arquitetura de software, desenvolvimento backend e aplicações móveis. Tenho paixão por construir soluções robustas, escaláveis e bem estruturadas.
+Especialista em arquitetura de software, desenvolvimento backend e aplicações móveis. Construindo soluções robustas, escaláveis e bem estruturadas.
 
 ---
 
@@ -9,12 +9,12 @@ Especialista em arquitetura de software, desenvolvimento backend e aplicações 
 
 - **Arquitetura**: DDD, TDD, SOLID, Microservices  
 - **Metodologias Ágeis**: Scrum, Kanban  
-- **Linguagens**: C/C++/C#, Ruby, Objective-C, JavaScript, PHP, Java  
-- **Frameworks**: ASP.NET Core (1.x - 9.x), Node.js, Angular, CakePHP, CodeIgniter, Ruby on Rails  
-- **Mobile**: iOS, Android, Windows Phone  
+- **Linguagens**: C/C++/C#, Ruby, Objective-C, JavaScript, PHP, Java, Kotlin
+- **Frameworks**: ASP.NET Core (1.x - 9.x), Node.js, AngularJe, Angular 2+, CakePHP, CodeIgniter, Ruby on Rails  
+- **Mobile**: iOS, Android
 - **DevOps**: Docker, Jenkins, SonarQube, GoCD, CI/CD  
-- **Banco de Dados**: SQL Server, MongoDB  
-- **Mensageria & Logs**: RabbitMQ, Kibana, Grafana  
+- **Banco de Dados**: SQL Server, MongoDB, Oracle, MySql 
+- **Mensageria & Logs**: RabbitMQ, Kibana, Grafana, Serilog, Seq
 - **Cloud**: AWS, Azure, GCP  
 - **Outros**: GitHub/Bitbucket, AutoMapper, Fluent Migrations, Moq, Dapper
 
